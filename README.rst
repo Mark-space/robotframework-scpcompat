@@ -28,7 +28,7 @@ Python. Strictly speaking, the underlying 'scp' module is also pure
 Python, so let me know if you have any luck with Jython or
 IronPython.
 
-SSHLibrary is open source software licensed under `GNU General Public
+SCPLibrary is open source software licensed under `GNU General Public
 License v3 <https://www.gnu.org/licenses/gpl-3.0.en.html>`__.
 
 Installation
